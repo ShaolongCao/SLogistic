@@ -1,1 +1,2 @@
 # SLogistic
+Logistic
